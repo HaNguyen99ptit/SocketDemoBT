@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Client/src"/>
+	<classpathentry kind="src" path="Message/src"/>
+	<classpathentry kind="lib" path="Client/dist/Client.jar"/>
+	<classpathentry kind="lib" path="Client/dist/lib/Message.jar"/>
+	<classpathentry kind="lib" path="Client/Message.jar"/>
+	<classpathentry kind="lib" path="Message/dist/Message.jar"/>
+	<classpathentry kind="output" path="Client/build/classes"/>
+</classpath>
